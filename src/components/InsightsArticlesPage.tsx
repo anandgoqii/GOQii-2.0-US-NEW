@@ -182,7 +182,7 @@ const ARTICLES_DATA: Article[] = [
     publishDate: 'May 2026',
     author: {
       name: 'Vincent Sai',
-      role: 'CEO & Partner, Modality Partnership (UK) & GOQii Advisory Board',
+      role: 'CEO & Partner, Modality Partnership (UK)',
       avatar: 'https://appcdn.goqii.com/storeimg/91844_1781251940.png',
     },
     image: 'https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=1000&auto=format&fit=crop&q=80',

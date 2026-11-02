@@ -239,24 +239,6 @@ const advisoryBoard: TeamMember[] = [
   },
   {
     num: '04',
-    name: 'Vincent Sai',
-    role: 'CEO & Partner, Modality Partnership (UK)',
-    company: 'MODALITY PARTNERSHIP',
-    tags: ['PRIMARY CARE TRANSFORMATION', 'POPULATION HEALTH MANAGEMENT'],
-    img: 'https://appcdn.goqii.com/storeimg/91844_1781251940.png',
-    expertise: [
-      'Primary Care Transformation',
-      'Population Health Management',
-      'Healthcare Strategy & Innovation',
-      'Large-Scale Health System Transformation',
-      'Global Healthcare Leadership'
-    ],
-    showBioLabel: true,
-    bio: "Vincent Sai is the CEO and Partner of Modality Partnership, an award-winning NHS GP super partnership delivering primary and community healthcare services across the United Kingdom. Since joining in 2015, he has led significant diversification and expansion, transforming Modality into the largest partnership of its kind in the UK.\n\nVincent is widely recognized for his expertise in primary care, population health management, and large-scale healthcare transformation across public and private healthcare systems in the UK and internationally. He is the only non-clinical owner within a national partnership comprising over 130 GP partners.\n\nPrior to Modality, Vincent served as Chief Executive of Aetna Health Management Services and advised public and private sector clients across the United States, Australia, Hong Kong, South Korea, and Indonesia during his tenure at Deloitte Consulting.\n\nHe was recently awarded the Honorary Fellowship of the Royal College of General Practitioners (RCGP) for his outstanding contribution to General Practice. He is also a Fellow of the Institute of Chartered Accountants in England and Wales and Australia & New Zealand, a Health Executive in Residence at the Global Business School for Health, University College London (UCL), a Visiting Fellow at London South Bank University (LSBU), and an expert guest lecturer at the University of Brighton.",
-    credentials: 'Modality Partnership (UK) • RCGP Fellow • UCL Health Executive',
-  },
-  {
-    num: '05',
     name: 'Amit Singhal',
     role: 'Former SVP Search — Google',
     company: 'FOUNDER, SITARE FOUNDATION',
@@ -266,7 +248,7 @@ const advisoryBoard: TeamMember[] = [
     credentials: 'Google employee #176 • 15 years leading Search | IIT Roorkee • Cornell PhD',
   },
   {
-    num: '06',
+    num: '05',
     name: 'Lauren Selig',
     role: 'Founder & CEO',
     company: 'SHAKE AND BAKE PRODUCTIONS',
@@ -276,7 +258,7 @@ const advisoryBoard: TeamMember[] = [
     credentials: '20+ years in media & startups | Los Angeles',
   },
   {
-    num: '07',
+    num: '06',
     name: 'Manoj Narender Madnani',
     role: 'President',
     company: 'GASENTEC • BEACON MEDIA',
